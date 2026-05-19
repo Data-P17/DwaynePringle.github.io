@@ -17,11 +17,11 @@ Greetings! I'm a recent Data Science graduate from TripleTen with hands-on exper
 
 ## TECHNICAL SKILLS
 
-Python | SQL | Excel | Jupyter Notebook | NumPy | pandas | Matplotlib | Scikit-learn | LightGBM | TensorFlow | PyTorch | Machine Learning | Predictive Modeling | Data Visualization | Statistical Analysis
+Python|SQL|Excel|NumPy|pandas|Matplotlib|Scikit-learn|Machine Learning|Predictive Modeling|Data Visualization|Statistical Analysis
 
 ## PROFESSIONAL SKILLS
 
-Communication | Active Listening | Critical Thinking | Problem Solving | Adaptability | Organization | Creativity | Patience | Collaboration | Conflict Resolution | Analytical Thinking
+Communication|Critical Thinking|Problem Solving|Adaptability|Organization|Creativity|Collaboration|Conflict Resolution|
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -29,11 +29,11 @@ Communication | Active Listening | Critical Thinking | Problem Solving | Adaptab
 
 # Beta Bank — Customer Retention Prediction Model
 Developed a supervised machine learning model to predict customer churn and support retention strategies for a banking institution.
-●	Performed data preprocessing, feature engineering, and exploratory data analysis on customer behavioral data.
-●	Trained and evaluated classification models to identify customers at risk of leaving the bank.
-●	Optimized model performance using accuracy and F1-score evaluation metrics.
-●	Generated actionable insights to help improve customer retention and reduce potential revenue loss.
-●	Communicated findings through visualizations and performance summaries for business stakeholders.
+* Performed data preprocessing, feature engineering, and exploratory data analysis on customer behavioral data.
+* Trained and evaluated classification models to identify customers at risk of leaving the bank.
+* Optimized model performance using accuracy and F1-score evaluation metrics.
+*	Generated actionable insights to help improve customer retention and reduce potential revenue loss.
+* Communicated findings through visualizations and performance summaries for business stakeholders.
 
 # Oil Giant — Regional Profitability Analysis
 Built a machine learning model to identify profitable oil drilling regions and support investment decision-making.
