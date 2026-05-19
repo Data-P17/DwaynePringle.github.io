@@ -83,11 +83,11 @@ Built a machine learning model to predict customer churn and support proactive c
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="Mr.DwaynePringle@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="Mr.DwaynePringle@gmail.com">Mr.DwaynePringle@gmail.com</a></td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/Data-P17/DwaynePringle.github.io.git">My Email</a></td>
     </tr>
     <tr>
       <td>🌐</td>
