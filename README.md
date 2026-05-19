@@ -37,35 +37,35 @@ Developed a supervised machine learning model to predict customer churn and supp
 
 # Oil Giant — Regional Profitability Analysis
 Built a machine learning model to identify profitable oil drilling regions and support investment decision-making.
-●	Analyzed geological and production data to predict oil reserve volumes across multiple regions.
-●	Applied predictive modeling and profit analysis techniques to evaluate well performance.
-●	Used risk assessment and bootstrapping methods to estimate profitability and reduce financial uncertainty.
-●	Identified the most profitable drilling region based on projected revenue and risk thresholds.
-●	Presented analytical findings to support strategic business and operational decisions.
+*	Analyzed geological and production data to predict oil reserve volumes across multiple regions.
+*	Applied predictive modeling and profit analysis techniques to evaluate well performance.
+*	Used risk assessment and bootstrapping methods to estimate profitability and reduce financial uncertainty.
+*	Identified the most profitable drilling region based on projected revenue and risk thresholds.
+*	Presented analytical findings to support strategic business and operational decisions.
 
 # Zyfra Gold Mining — Production Optimization Model
 Developed machine learning models to improve gold recovery predictions and optimize mining operations.
-●	Conducted data preparation, cleaning, and exploratory data analysis on mining production datasets.
-●	Built and trained predictive models to forecast gold recovery efficiency during processing stages.
-●	Evaluated model performance to improve operational accuracy and production planning.
-●	Identified process inefficiencies and provided insights to support sustainable and profitable mining operations.
-●	Communicated technical findings through visual reports and analytical summaries.
+*	Conducted data preparation, cleaning, and exploratory data analysis on mining production datasets.
+*	Built and trained predictive models to forecast gold recovery efficiency during processing stages.
+*	Evaluated model performance to improve operational accuracy and production planning.
+*	Identified process inefficiencies and provided insights to support sustainable and profitable mining operations.
+*	Communicated technical findings through visual reports and analytical summaries.
 
 # Sure Tomorrow Insurance — Customer & Risk Analytics
 Applied linear algebra and machine learning techniques to support customer analytics and data privacy initiatives for an insurance company.
-●	Analyzed customer data to identify similar clients and predict insurance benefit outcomes.
-●	Developed predictive models to estimate the number of insurance benefits customers may receive.
-●	Implemented data masking techniques to help protect sensitive customer information.
-●	Applied linear algebra concepts to improve model efficiency and data transformation processes.
-●	Delivered analytical insights to support customer targeting and risk evaluation strategies.
+*	Analyzed customer data to identify similar clients and predict insurance benefit outcomes.
+*	Developed predictive models to estimate the number of insurance benefits customers may receive.
+*	Implemented data masking techniques to help protect sensitive customer information.
+*	Applied linear algebra concepts to improve model efficiency and data transformation processes.
+*	Delivered analytical insights to support customer targeting and risk evaluation strategies.
 
 # Rusty Bargain — Vehicle Price Prediction Model
 Built a numerical methods machine learning model to predict used vehicle prices and improve pricing accuracy.
-●	Processed and analyzed vehicle listing data using data cleaning and feature engineering techniques.
-●	Trained and compared regression models to optimize prediction speed and accuracy.
-●	Evaluated numerical algorithms to improve computational efficiency for large datasets.
-●	Generated pricing insights to support competitive market valuation and business decision-making.
-●	Presented model performance results using data visualizations and evaluation metrics.
+*	Processed and analyzed vehicle listing data using data cleaning and feature engineering techniques.
+*	Trained and compared regression models to optimize prediction speed and accuracy.
+*	Evaluated numerical algorithms to improve computational efficiency for large datasets.
+*	Generated pricing insights to support competitive market valuation and business decision-making.
+*	Presented model performance results using data visualizations and evaluation metrics.
 
 # The Churn Eye Identifier — Customer Churn Prediction Model
 Built a machine learning model to predict customer churn and support proactive customer retention strategies.
