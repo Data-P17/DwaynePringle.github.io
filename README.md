@@ -1,2 +1,2 @@
-# DwaynePringle.github.io
+# Portfolio
 A website for displaying my portfolio
