@@ -27,7 +27,7 @@ Communication|Critical Thinking|Problem Solving|Adaptability|Organization|Creati
 <!--Section 2: List 3-4 key projects-->
 ## Tech Projects
 
-# Beta Bank — Customer Retention Prediction Model
+### Beta Bank — Customer Retention Prediction Model
 Developed a supervised machine learning model to predict customer churn and support retention strategies for a banking institution.
 * Performed data preprocessing, feature engineering, and exploratory data analysis on customer behavioral data.
 * Trained and evaluated classification models to identify customers at risk of leaving the bank.
@@ -35,7 +35,7 @@ Developed a supervised machine learning model to predict customer churn and supp
 *	Generated actionable insights to help improve customer retention and reduce potential revenue loss.
 * Communicated findings through visualizations and performance summaries for business stakeholders.
 
-# Oil Giant — Regional Profitability Analysis
+### Oil Giant — Regional Profitability Analysis
 Built a machine learning model to identify profitable oil drilling regions and support investment decision-making.
 *	Analyzed geological and production data to predict oil reserve volumes across multiple regions.
 *	Applied predictive modeling and profit analysis techniques to evaluate well performance.
@@ -43,7 +43,7 @@ Built a machine learning model to identify profitable oil drilling regions and s
 *	Identified the most profitable drilling region based on projected revenue and risk thresholds.
 *	Presented analytical findings to support strategic business and operational decisions.
 
-# Zyfra Gold Mining — Production Optimization Model
+### Zyfra Gold Mining — Production Optimization Model
 Developed machine learning models to improve gold recovery predictions and optimize mining operations.
 *	Conducted data preparation, cleaning, and exploratory data analysis on mining production datasets.
 *	Built and trained predictive models to forecast gold recovery efficiency during processing stages.
@@ -51,7 +51,7 @@ Developed machine learning models to improve gold recovery predictions and optim
 *	Identified process inefficiencies and provided insights to support sustainable and profitable mining operations.
 *	Communicated technical findings through visual reports and analytical summaries.
 
-# Sure Tomorrow Insurance — Customer & Risk Analytics
+### Sure Tomorrow Insurance — Customer & Risk Analytics
 Applied linear algebra and machine learning techniques to support customer analytics and data privacy initiatives for an insurance company.
 *	Analyzed customer data to identify similar clients and predict insurance benefit outcomes.
 *	Developed predictive models to estimate the number of insurance benefits customers may receive.
@@ -59,7 +59,7 @@ Applied linear algebra and machine learning techniques to support customer analy
 *	Applied linear algebra concepts to improve model efficiency and data transformation processes.
 *	Delivered analytical insights to support customer targeting and risk evaluation strategies.
 
-# Rusty Bargain — Vehicle Price Prediction Model
+### Rusty Bargain — Vehicle Price Prediction Model
 Built a numerical methods machine learning model to predict used vehicle prices and improve pricing accuracy.
 *	Processed and analyzed vehicle listing data using data cleaning and feature engineering techniques.
 *	Trained and compared regression models to optimize prediction speed and accuracy.
@@ -67,13 +67,13 @@ Built a numerical methods machine learning model to predict used vehicle prices 
 *	Generated pricing insights to support competitive market valuation and business decision-making.
 *	Presented model performance results using data visualizations and evaluation metrics.
 
-# The Churn Eye Identifier — Customer Churn Prediction Model
+### The Churn Eye Identifier — Customer Churn Prediction Model
 Built a machine learning model to predict customer churn and support proactive customer retention strategies.
-●	Analyzed customer behavioral data to identify patterns associated with customer attrition.
-●	Performed data preprocessing, feature selection, and classification model training to improve churn prediction accuracy.
-●	Evaluated model performance using classification metrics to identify high-risk customers effectively.
-●	Generated actionable insights to help businesses reduce churn and improve customer retention efforts.
-●	Presented findings using visual reports and analytical summaries for decision-making support.
+*	Analyzed customer behavioral data to identify patterns associated with customer attrition.
+*	Performed data preprocessing, feature selection, and classification model training to improve churn prediction accuracy.
+*	Evaluated model performance using classification metrics to identify high-risk customers effectively.
+*	Generated actionable insights to help businesses reduce churn and improve customer retention efforts.
+*	Presented findings using visual reports and analytical summaries for decision-making support.
 
 
 ## CONTACT DETAILS
