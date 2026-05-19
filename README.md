@@ -83,15 +83,15 @@ Built a machine learning model to predict customer churn and support proactive c
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="Mr.DwaynePringle@gmail.com">Mr.DwaynePringle@gmail.com</a></td>
+      <td><a href="Mr.DwaynePringle@gmail.com">Email</a></td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/Data-P17/DwaynePringle.github.io.git">My Email</a></td>
+      <td><a href="https://github.com/Data-P17/DwaynePringle.github.io.git">Portfolio Website</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/dwayne-pringle-0041a395">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/dwayne-pringle-0041a395">LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
